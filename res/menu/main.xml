@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.prototypeunddialog.MainActivity" >
+
+    <item
+        android:id="@+id/action_main"
+        android:orderInCategory="50"
+        android:title="@string/action_main"
+        app:showAsAction="never">
+        <menu>
+            <item
+                android:id="@+id/action_mainfn1"
+                android:orderInCategory="60"
+                android:title="@string/action_mainfn1"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/action_mainfn2"
+                android:orderInCategory="70"
+                android:title="@string/action_mainfn2"
+                app:showAsAction="never"/>
+            <item
+                android:id="@+id/action_mainfn3"
+                android:orderInCategory="80"
+                android:title="@string/action_mainfn3"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="300"
+        android:title="@string/action_exit"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="200"
+        android:title="@string/action_about"
+        app:showAsAction="never"/>
+
+</menu>

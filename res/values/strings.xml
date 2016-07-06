@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2PrototypeUndDialog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_main">Hauptfunktionen</string>
+    <string name="action_mainfn1">Funktion 1</string>
+    <string name="action_mainfn2">Funktion 2</string>
+    <string name="action_mainfn3">Funktion 3</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_about">Über</string>
+    <string name="action_exit">Beenden</string>
+    <string name="title_activity_act_second">ActSecond</string>
+    <string name="sMenge">Menge</string>
+    <string name="sArtikelBezeichnung">"Artikel "</string>
+    <string name="sArtikeleingabe">Artikeleingabe</string>
+    <string name="sSave">Speichern</string>
+    <string name="sCancel">Zurück</string>
+    <string name="sGekauft">gekauft</string>
+
+</resources>
